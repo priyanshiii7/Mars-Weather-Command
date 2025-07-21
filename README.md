@@ -7,6 +7,11 @@ A futuristic and interactive web dashboard that displays **real-time Mars weathe
 
 ---
 
+![Screenshot](assets/img-2) 
+(assets/img-1)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structured semantic layout

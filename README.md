@@ -3,6 +3,9 @@
 A futuristic and interactive web dashboard that displays **real-time Mars weather data**, including temperature, wind velocity, atmospheric pressure, humidity, and UV radiation. Inspired by space mission UIs, this app provides an engaging user experience that mimics monitoring a rover on the Red Planet.
 
 ---
+🔗 [Watch Demo Video](https://drive.google.com/file/d/18P2q9s0-bMTEj9cX402l1OrIm7pGGrAq/view?usp=drive_link)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +37,12 @@ A futuristic and interactive web dashboard that displays **real-time Mars weathe
 
 
 ---
+## Live Preview
+Check out the Project here:
+=> https://mars-weather-command.vercel.app/
+
+---
+
 
 ## 🚨 Alerts
 

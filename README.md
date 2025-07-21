@@ -7,7 +7,7 @@ A futuristic and interactive web dashboard that displays **real-time Mars weathe
 
 ---
 
-(assets/img-2) 
+![Screenshot](img-2)
 
 
 ---
